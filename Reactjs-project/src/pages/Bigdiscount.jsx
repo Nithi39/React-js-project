@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import { FaPlus } from "react-icons/fa"
 import "../cssfiles/Bigdiscount.css"
 import { Link } from 'react-router-dom'
-import { globalContext } from '../context/MyContext'
+import { globalContext } from '../context/MyContext' 
 import {useDispatch} from "react-redux"
 import { addtoCart } from '../Redux/ProductSlice'
 import { toast } from 'react-toastify'; 
