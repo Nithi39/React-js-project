@@ -2,7 +2,7 @@ import React from 'react'
 import { FaShoppingBag } from "react-icons/fa";
 import "../cssfiles/Footer.css"
 
-
+ 
 
 export default function Footer() {
   return (
