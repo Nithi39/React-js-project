@@ -15,7 +15,7 @@ export default function Carosol() {
     autoplay: true,
     speed: 2000,
     autoplaySpeed: 3000,
-    cssEase: "linear"
+    cssEase: "linear" 
   };
   return (
     <div className="carousel-wrapper">
