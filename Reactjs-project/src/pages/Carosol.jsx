@@ -35,7 +35,7 @@ export default function Carosol() {
               <h5>Visit Collections</h5>
             </div>
             <div className='carousel-image'>
-              <img src={item.cover} alt="carousel-slide" />
+              <img src={item.cover} alt="carousel-slide" /> 
             </div>
           </div>
         ))}
