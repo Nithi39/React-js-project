@@ -32,7 +32,7 @@ export default function LikedProducts() {
             <h1 className="LikedProducts-title">You might also like</h1>
 
       <div className="LikedProducts-grid">
-        {filtered.map((item) => (
+        {filtered.map((item) => ( 
           <div className="LikedProducts-card" key={item.id}>
             <Link to={`/${item.id}`}>
             <img src={item.imgUrl} alt={item.productName} className="LikedProducts-image" />
