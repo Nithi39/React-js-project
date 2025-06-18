@@ -7,7 +7,7 @@ export default function MyContext({children}) {
 
   const fetchData = () => {
     setData(products);
-    setDiscountData(discoutProducts);
+    setDiscountData(discoutProducts); 
   };
   useEffect(() => {
     fetchData();
