@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react';
-import "../cssfiles/Searchbar.css";
+import "../cssfiles/Searchbar.css"; 
 import { globalContext } from '../context/MyContext';
 import { FaBaby, FaPlus } from 'react-icons/fa';
 import { FaDribbble, FaSearch, } from "react-icons/fa";
