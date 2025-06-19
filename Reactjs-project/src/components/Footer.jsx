@@ -44,9 +44,9 @@ export default function Footer() {
                 <h1>Contact Us</h1>
             </div>
             <div className='Contact-info'>
-                <li>140- Kavanoor North,Nindra(M),Chittoor,PIN:517587,<br />AP,India</li>
-                <li>Email: royalmunirathnam@gmail.com</li>
-                <li>Phone: +91 7207149732</li>
+                <li>Kadapa,Andhra Pradesh</li>
+                <li>Email: nithikumar866@gmail.com</li>
+                <li>Phone: =+91 9381144190</li>
             </div>         
         </div>      
     </div>  
